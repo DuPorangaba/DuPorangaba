@@ -7,7 +7,7 @@ I'm starting in programming. So, I'm currently learning HTML, CSS, and Javascrip
 I love ❣ ... 
 <br>Programming 🐱‍💻, 
 <br>Neuroscience 🧠, 
-<br>Education 📚. 
+<br>Self learning 📚. 
 
 
 
