@@ -6,7 +6,7 @@
 
 📚I love learning by myself, and I'm always learning something new. 
 
-😜I like to talk about technology, self-taught, and neuroscience.
+😜I like to talk about technology, cybersecurity, and neuroscience.
 
 
 
